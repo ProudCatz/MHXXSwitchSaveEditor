@@ -1,23 +1,33 @@
-# MHXXSwitchSaveEditor
-A save editor for Monster Hunter XX Switch and 3DS versions
-FIRST VERSION
-NOT TESTED THOROUGHLY ALWAYS MAKE A BACK UP
-THIS CAN AND PROBABLY WILL RUIN YOUR SAVE
+# MHXX存档修改器
+# 本人只提供内容汉化,存档编辑器的功能由mineminemine/Dawnshifter编写.
+
+Monster Hunter XX Switch和3DS版本的存档编辑器
+
+第一版
+
+没有测试过，使用前请备份你的存档
+
+这可能会破坏你的存档
+
 
 USAGE:
-1. Extract MHXX save file with your save manager (switch tested with Checkpoint)
-2. Open the system file with this editor
-3. Edit all you want.
-4. Save the system file.
-5. Place both the edited system file and the system_backup back on the sd card of your switch
-6. Import the saves with your save manager
 
-CONVERTING: 
-1. Start by loading the 3DS save file
-2. In the convert menu select "To Switch"
-3. Select your extracted switch save file (just an empty one, needs to be created by your switch)
-4. Save the file and import it on the switch
+1.使用您的存档管理器提取MHXX存档文件
 
-I do not know if it is important but to be sure but do not change the name of the saves, keep them system and system_backup
+2.使用此编辑器打开system文件
 
-Based off: https://github.com/mineminemine/MHXXSaveEditor/
+3.编辑你想要的一切。
+
+4.保存system文件。
+
+5.将已编辑的system文件和system_backup放回SD卡上
+
+6.使用您的存档管理器导入存档
+
+
+我不知道它是否重要,但是不要更改保存的名称，请保留system和system_backup
+
+
+感谢原作者:  https://github.com/mineminemine/MHXXSaveEditor/
+
+Switch版:   https://github.com/Dawnshifter/MHXXSwitchSaveEditor
