@@ -98,206 +98,226 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 28);
+            this.label1.Location = new System.Drawing.Point(4, 21);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 17);
+            this.label1.Size = new System.Drawing.Size(29, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Type";
+            this.label1.Text = "类型";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 62);
+            this.label2.Location = new System.Drawing.Point(4, 46);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(42, 17);
+            this.label2.Size = new System.Drawing.Size(41, 12);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Level";
+            this.label2.Text = "稀有度";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 30);
+            this.label3.Location = new System.Drawing.Point(4, 22);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(66, 17);
+            this.label3.Size = new System.Drawing.Size(41, 12);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Power Lv";
+            this.label3.Text = "力量Lv";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 93);
+            this.label4.Location = new System.Drawing.Point(4, 70);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(68, 17);
+            this.label4.Size = new System.Drawing.Size(41, 12);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Speed Lv";
+            this.label4.Text = "速度Lv";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 61);
+            this.label5.Location = new System.Drawing.Point(4, 46);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(71, 17);
+            this.label5.Size = new System.Drawing.Size(41, 12);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Weight Lv";
+            this.label5.Text = "防御Lv";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 29);
+            this.label6.Location = new System.Drawing.Point(4, 22);
+            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(51, 17);
+            this.label6.Size = new System.Drawing.Size(53, 12);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Fire Lv";
+            this.label6.Text = "火属性Lv";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(6, 63);
+            this.label7.Location = new System.Drawing.Point(4, 47);
+            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(65, 17);
+            this.label7.Size = new System.Drawing.Size(53, 12);
             this.label7.TabIndex = 6;
-            this.label7.Text = "Water Lv";
+            this.label7.Text = "水属性Lv";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(6, 96);
+            this.label8.Location = new System.Drawing.Point(4, 72);
+            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(81, 17);
+            this.label8.Size = new System.Drawing.Size(53, 12);
             this.label8.TabIndex = 7;
-            this.label8.Text = "Thunder Lv";
+            this.label8.Text = "雷属性Lv";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 127);
+            this.label9.Location = new System.Drawing.Point(4, 95);
+            this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(45, 17);
+            this.label9.Size = new System.Drawing.Size(53, 12);
             this.label9.TabIndex = 8;
-            this.label9.Text = "Ice Lv";
+            this.label9.Text = "冰属性Lv";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(6, 159);
+            this.label10.Location = new System.Drawing.Point(4, 119);
+            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(74, 17);
+            this.label10.Size = new System.Drawing.Size(53, 12);
             this.label10.TabIndex = 9;
-            this.label10.Text = "Dragon Lv";
+            this.label10.Text = "龙属性Lv";
             // 
             // numericUpDownPowerLv
             // 
-            this.numericUpDownPowerLv.Location = new System.Drawing.Point(102, 28);
+            this.numericUpDownPowerLv.Location = new System.Drawing.Point(76, 21);
+            this.numericUpDownPowerLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownPowerLv.Maximum = new decimal(new int[] {
             20,
             0,
             0,
             0});
             this.numericUpDownPowerLv.Name = "numericUpDownPowerLv";
-            this.numericUpDownPowerLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownPowerLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownPowerLv.TabIndex = 12;
             // 
             // numericUpDownWeightLv
             // 
-            this.numericUpDownWeightLv.Location = new System.Drawing.Point(102, 59);
+            this.numericUpDownWeightLv.Location = new System.Drawing.Point(76, 44);
+            this.numericUpDownWeightLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownWeightLv.Maximum = new decimal(new int[] {
             20,
             0,
             0,
             0});
             this.numericUpDownWeightLv.Name = "numericUpDownWeightLv";
-            this.numericUpDownWeightLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownWeightLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownWeightLv.TabIndex = 13;
             // 
             // numericUpDownSpeedLv
             // 
-            this.numericUpDownSpeedLv.Location = new System.Drawing.Point(102, 91);
+            this.numericUpDownSpeedLv.Location = new System.Drawing.Point(76, 68);
+            this.numericUpDownSpeedLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownSpeedLv.Maximum = new decimal(new int[] {
             20,
             0,
             0,
             0});
             this.numericUpDownSpeedLv.Name = "numericUpDownSpeedLv";
-            this.numericUpDownSpeedLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownSpeedLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownSpeedLv.TabIndex = 14;
             // 
             // numericUpDownFireLv
             // 
-            this.numericUpDownFireLv.Location = new System.Drawing.Point(102, 29);
+            this.numericUpDownFireLv.Location = new System.Drawing.Point(76, 22);
+            this.numericUpDownFireLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownFireLv.Maximum = new decimal(new int[] {
             37,
             0,
             0,
             0});
             this.numericUpDownFireLv.Name = "numericUpDownFireLv";
-            this.numericUpDownFireLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownFireLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownFireLv.TabIndex = 15;
             // 
             // numericUpDownWaterLv
             // 
-            this.numericUpDownWaterLv.Location = new System.Drawing.Point(102, 61);
+            this.numericUpDownWaterLv.Location = new System.Drawing.Point(76, 46);
+            this.numericUpDownWaterLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownWaterLv.Maximum = new decimal(new int[] {
             37,
             0,
             0,
             0});
             this.numericUpDownWaterLv.Name = "numericUpDownWaterLv";
-            this.numericUpDownWaterLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownWaterLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownWaterLv.TabIndex = 16;
             // 
             // numericUpDownThunderLv
             // 
-            this.numericUpDownThunderLv.Location = new System.Drawing.Point(102, 94);
+            this.numericUpDownThunderLv.Location = new System.Drawing.Point(76, 70);
+            this.numericUpDownThunderLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownThunderLv.Maximum = new decimal(new int[] {
             37,
             0,
             0,
             0});
             this.numericUpDownThunderLv.Name = "numericUpDownThunderLv";
-            this.numericUpDownThunderLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownThunderLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownThunderLv.TabIndex = 17;
             // 
             // numericUpDownIceLv
             // 
-            this.numericUpDownIceLv.Location = new System.Drawing.Point(102, 125);
+            this.numericUpDownIceLv.Location = new System.Drawing.Point(76, 94);
+            this.numericUpDownIceLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownIceLv.Maximum = new decimal(new int[] {
             37,
             0,
             0,
             0});
             this.numericUpDownIceLv.Name = "numericUpDownIceLv";
-            this.numericUpDownIceLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownIceLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownIceLv.TabIndex = 18;
             // 
             // numericUpDownDragonLv
             // 
-            this.numericUpDownDragonLv.Location = new System.Drawing.Point(102, 157);
+            this.numericUpDownDragonLv.Location = new System.Drawing.Point(76, 118);
+            this.numericUpDownDragonLv.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownDragonLv.Maximum = new decimal(new int[] {
             37,
             0,
             0,
             0});
             this.numericUpDownDragonLv.Name = "numericUpDownDragonLv";
-            this.numericUpDownDragonLv.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownDragonLv.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownDragonLv.TabIndex = 19;
             // 
             // buttonOk
             // 
-            this.buttonOk.Location = new System.Drawing.Point(65, 177);
+            this.buttonOk.Location = new System.Drawing.Point(49, 133);
+            this.buttonOk.Margin = new System.Windows.Forms.Padding(2);
             this.buttonOk.Name = "buttonOk";
-            this.buttonOk.Size = new System.Drawing.Size(100, 30);
+            this.buttonOk.Size = new System.Drawing.Size(75, 22);
             this.buttonOk.TabIndex = 20;
-            this.buttonOk.Text = "Save";
+            this.buttonOk.Text = "保存";
             this.buttonOk.UseVisualStyleBackColor = true;
             this.buttonOk.Click += new System.EventHandler(this.ButtonOk_Click);
             // 
             // buttonCancel
             // 
-            this.buttonCancel.Location = new System.Drawing.Point(65, 237);
+            this.buttonCancel.Location = new System.Drawing.Point(49, 178);
+            this.buttonCancel.Margin = new System.Windows.Forms.Padding(2);
             this.buttonCancel.Name = "buttonCancel";
-            this.buttonCancel.Size = new System.Drawing.Size(100, 30);
+            this.buttonCancel.Size = new System.Drawing.Size(75, 22);
             this.buttonCancel.TabIndex = 21;
-            this.buttonCancel.Text = "Cancel";
+            this.buttonCancel.Text = "取消";
             this.buttonCancel.UseVisualStyleBackColor = true;
             this.buttonCancel.Click += new System.EventHandler(this.ButtonCancel_Click);
             // 
@@ -313,12 +333,14 @@
             this.groupBox1.Controls.Add(this.numericUpDownThunderLv);
             this.groupBox1.Controls.Add(this.numericUpDownFireLv);
             this.groupBox1.Controls.Add(this.numericUpDownWaterLv);
-            this.groupBox1.Location = new System.Drawing.Point(253, 148);
+            this.groupBox1.Location = new System.Drawing.Point(190, 111);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(235, 200);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Size = new System.Drawing.Size(176, 150);
             this.groupBox1.TabIndex = 22;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Element";
+            this.groupBox1.Text = "属性";
             // 
             // groupBox2
             // 
@@ -328,31 +350,35 @@
             this.groupBox2.Controls.Add(this.numericUpDownPowerLv);
             this.groupBox2.Controls.Add(this.numericUpDownSpeedLv);
             this.groupBox2.Controls.Add(this.numericUpDownWeightLv);
-            this.groupBox2.Location = new System.Drawing.Point(253, 12);
+            this.groupBox2.Location = new System.Drawing.Point(190, 9);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(235, 130);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox2.Size = new System.Drawing.Size(176, 98);
             this.groupBox2.TabIndex = 23;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Stats";
+            this.groupBox2.Text = "能力值";
             // 
             // comboBoxKinsectType
             // 
             this.comboBoxKinsectType.FormattingEnabled = true;
-            this.comboBoxKinsectType.Location = new System.Drawing.Point(75, 25);
+            this.comboBoxKinsectType.Location = new System.Drawing.Point(56, 19);
+            this.comboBoxKinsectType.Margin = new System.Windows.Forms.Padding(2);
             this.comboBoxKinsectType.Name = "comboBoxKinsectType";
-            this.comboBoxKinsectType.Size = new System.Drawing.Size(147, 24);
+            this.comboBoxKinsectType.Size = new System.Drawing.Size(111, 20);
             this.comboBoxKinsectType.TabIndex = 24;
             // 
             // numericUpDownLevel
             // 
-            this.numericUpDownLevel.Location = new System.Drawing.Point(75, 60);
+            this.numericUpDownLevel.Location = new System.Drawing.Point(56, 45);
+            this.numericUpDownLevel.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownLevel.Maximum = new decimal(new int[] {
             12,
             0,
             0,
             0});
             this.numericUpDownLevel.Name = "numericUpDownLevel";
-            this.numericUpDownLevel.Size = new System.Drawing.Size(146, 22);
+            this.numericUpDownLevel.Size = new System.Drawing.Size(110, 21);
             this.numericUpDownLevel.TabIndex = 11;
             // 
             // groupBox3
@@ -361,12 +387,14 @@
             this.groupBox3.Controls.Add(this.comboBoxKinsectType);
             this.groupBox3.Controls.Add(this.label1);
             this.groupBox3.Controls.Add(this.label2);
-            this.groupBox3.Location = new System.Drawing.Point(12, 12);
+            this.groupBox3.Location = new System.Drawing.Point(9, 9);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(235, 100);
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox3.Size = new System.Drawing.Size(176, 75);
             this.groupBox3.TabIndex = 25;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Kinsect";
+            this.groupBox3.Text = "猎虫";
             // 
             // groupBox4
             // 
@@ -376,59 +404,67 @@
             this.groupBox4.Controls.Add(this.numericUpDownPowerExp);
             this.groupBox4.Controls.Add(this.numericUpDownSpeedExp);
             this.groupBox4.Controls.Add(this.numericUpDownWeightExp);
-            this.groupBox4.Location = new System.Drawing.Point(494, 12);
+            this.groupBox4.Location = new System.Drawing.Point(370, 9);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(235, 130);
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox4.Size = new System.Drawing.Size(176, 98);
             this.groupBox4.TabIndex = 26;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Stats Exp";
+            this.groupBox4.Text = "能力值Exp";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(6, 30);
+            this.label11.Location = new System.Drawing.Point(4, 22);
+            this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(74, 17);
+            this.label11.Size = new System.Drawing.Size(47, 12);
             this.label11.TabIndex = 2;
-            this.label11.Text = "Power Exp";
+            this.label11.Text = "力量Exp";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(6, 93);
+            this.label12.Location = new System.Drawing.Point(4, 70);
+            this.label12.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(76, 17);
+            this.label12.Size = new System.Drawing.Size(47, 12);
             this.label12.TabIndex = 3;
-            this.label12.Text = "Speed Exp";
+            this.label12.Text = "速度Exp";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(6, 61);
+            this.label13.Location = new System.Drawing.Point(4, 46);
+            this.label13.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(79, 17);
+            this.label13.Size = new System.Drawing.Size(47, 12);
             this.label13.TabIndex = 4;
-            this.label13.Text = "Weight Exp";
+            this.label13.Text = "防御Exp";
             // 
             // numericUpDownPowerExp
             // 
-            this.numericUpDownPowerExp.Location = new System.Drawing.Point(102, 28);
+            this.numericUpDownPowerExp.Location = new System.Drawing.Point(76, 21);
+            this.numericUpDownPowerExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownPowerExp.Name = "numericUpDownPowerExp";
-            this.numericUpDownPowerExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownPowerExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownPowerExp.TabIndex = 12;
             // 
             // numericUpDownSpeedExp
             // 
-            this.numericUpDownSpeedExp.Location = new System.Drawing.Point(102, 91);
+            this.numericUpDownSpeedExp.Location = new System.Drawing.Point(76, 68);
+            this.numericUpDownSpeedExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownSpeedExp.Name = "numericUpDownSpeedExp";
-            this.numericUpDownSpeedExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownSpeedExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownSpeedExp.TabIndex = 14;
             // 
             // numericUpDownWeightExp
             // 
-            this.numericUpDownWeightExp.Location = new System.Drawing.Point(102, 59);
+            this.numericUpDownWeightExp.Location = new System.Drawing.Point(76, 44);
+            this.numericUpDownWeightExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownWeightExp.Name = "numericUpDownWeightExp";
-            this.numericUpDownWeightExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownWeightExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownWeightExp.TabIndex = 13;
             // 
             // groupBox5
@@ -443,98 +479,110 @@
             this.groupBox5.Controls.Add(this.numericUpDownThunderExp);
             this.groupBox5.Controls.Add(this.numericUpDownFireExp);
             this.groupBox5.Controls.Add(this.numericUpDownWaterExp);
-            this.groupBox5.Location = new System.Drawing.Point(494, 148);
+            this.groupBox5.Location = new System.Drawing.Point(370, 111);
+            this.groupBox5.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(235, 200);
+            this.groupBox5.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox5.Size = new System.Drawing.Size(176, 150);
             this.groupBox5.TabIndex = 27;
             this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Element Exp";
+            this.groupBox5.Text = "属性Exp";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(6, 29);
+            this.label14.Location = new System.Drawing.Point(4, 22);
+            this.label14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(59, 17);
+            this.label14.Size = new System.Drawing.Size(35, 12);
             this.label14.TabIndex = 5;
-            this.label14.Text = "Fire Exp";
+            this.label14.Text = "火Exp";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(6, 63);
+            this.label15.Location = new System.Drawing.Point(4, 47);
+            this.label15.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(73, 17);
+            this.label15.Size = new System.Drawing.Size(35, 12);
             this.label15.TabIndex = 6;
-            this.label15.Text = "Water Exp";
+            this.label15.Text = "水Exp";
             // 
             // label16
             // 
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(6, 96);
+            this.label16.Location = new System.Drawing.Point(4, 72);
+            this.label16.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(89, 17);
+            this.label16.Size = new System.Drawing.Size(35, 12);
             this.label16.TabIndex = 7;
-            this.label16.Text = "Thunder Exp";
+            this.label16.Text = "雷Exp";
             // 
             // numericUpDownDragonExp
             // 
-            this.numericUpDownDragonExp.Location = new System.Drawing.Point(102, 157);
+            this.numericUpDownDragonExp.Location = new System.Drawing.Point(76, 118);
+            this.numericUpDownDragonExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownDragonExp.Name = "numericUpDownDragonExp";
-            this.numericUpDownDragonExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownDragonExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownDragonExp.TabIndex = 19;
             // 
             // label17
             // 
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(6, 127);
+            this.label17.Location = new System.Drawing.Point(4, 95);
+            this.label17.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(53, 17);
+            this.label17.Size = new System.Drawing.Size(35, 12);
             this.label17.TabIndex = 8;
-            this.label17.Text = "Ice Exp";
+            this.label17.Text = "冰Exp";
             // 
             // numericUpDownIceExp
             // 
-            this.numericUpDownIceExp.Location = new System.Drawing.Point(102, 125);
+            this.numericUpDownIceExp.Location = new System.Drawing.Point(76, 94);
+            this.numericUpDownIceExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownIceExp.Name = "numericUpDownIceExp";
-            this.numericUpDownIceExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownIceExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownIceExp.TabIndex = 18;
             // 
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(6, 159);
+            this.label18.Location = new System.Drawing.Point(4, 119);
+            this.label18.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(82, 17);
+            this.label18.Size = new System.Drawing.Size(35, 12);
             this.label18.TabIndex = 9;
-            this.label18.Text = "Dragon Exp";
+            this.label18.Text = "龙Exp";
             // 
             // numericUpDownThunderExp
             // 
-            this.numericUpDownThunderExp.Location = new System.Drawing.Point(102, 94);
+            this.numericUpDownThunderExp.Location = new System.Drawing.Point(76, 70);
+            this.numericUpDownThunderExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownThunderExp.Name = "numericUpDownThunderExp";
-            this.numericUpDownThunderExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownThunderExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownThunderExp.TabIndex = 17;
             // 
             // numericUpDownFireExp
             // 
-            this.numericUpDownFireExp.Location = new System.Drawing.Point(102, 29);
+            this.numericUpDownFireExp.Location = new System.Drawing.Point(76, 22);
+            this.numericUpDownFireExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownFireExp.Name = "numericUpDownFireExp";
-            this.numericUpDownFireExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownFireExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownFireExp.TabIndex = 15;
             // 
             // numericUpDownWaterExp
             // 
-            this.numericUpDownWaterExp.Location = new System.Drawing.Point(102, 61);
+            this.numericUpDownWaterExp.Location = new System.Drawing.Point(76, 46);
+            this.numericUpDownWaterExp.Margin = new System.Windows.Forms.Padding(2);
             this.numericUpDownWaterExp.Name = "numericUpDownWaterExp";
-            this.numericUpDownWaterExp.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDownWaterExp.Size = new System.Drawing.Size(90, 21);
             this.numericUpDownWaterExp.TabIndex = 16;
             // 
             // EditKinsectDialog
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(742, 363);
+            this.ClientSize = new System.Drawing.Size(556, 272);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
@@ -543,13 +591,14 @@
             this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.buttonOk);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "EditKinsectDialog";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Editing Kinsect";
+            this.Text = "修改猎虫";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownPowerLv)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownWeightLv)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownSpeedLv)).EndInit();
