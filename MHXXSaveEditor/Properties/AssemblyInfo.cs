@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MHXXSaveEditor")]
-[assembly: AssemblyDescription("Save Editor for MHXX (3DS/2DS, not Switch)")]
+[assembly: AssemblyTitle("MHXX存档修改器")]
+[assembly: AssemblyDescription("MHXX存档修改器 (3DS/2DS/Switch)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MHXXSaveEditor")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("Ukee")]
+[assembly: AssemblyProduct("MHXX存档修改器")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
